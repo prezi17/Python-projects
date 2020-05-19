@@ -1,7 +1,7 @@
 '''
 Created on Sun 04/28/2020 18:42:19
 Hangman Game
-@author: MarsCandyBars
+@author: rajwinedr kaur
 '''
 
 import random
