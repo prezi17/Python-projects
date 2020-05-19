@@ -1,8 +1,3 @@
-'''
-Created on Sun 04/30/2020 20:39:23
-Menu Calculator
-@author: MarsCandyBars
-'''
 
 class POS():
 
