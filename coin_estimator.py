@@ -1,9 +1,3 @@
-'''
-Created on Sun 04/11/2020 09:51:55
-Coin Estimator By Weight
-@author: MarsCandyBars
-'''
-
 class Coins():
 
     def weights(self):
