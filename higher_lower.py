@@ -1,9 +1,3 @@
-'''
-Created on Sun 04/17/2020 18:15:41
-Higher Lower Guessing Game
-@author: MarsCandyBars
-'''
-
 #Program was short and simple, so it is layed out
 #linearly
 import random
