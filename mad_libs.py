@@ -1,9 +1,3 @@
-'''
-Created on Sun 04/14/2020 06:47:44
-Mad Libs Story Maker
-@author: MarsCandyBars
-'''
-
 class MadLib():
 
     def prompts(self):
