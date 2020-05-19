@@ -1,8 +1,4 @@
-'''
-Created on Sun 04/10/2020 03:48:07
-Rock, Paper, Scissors
-@author: MarsCandyBars
-'''
+
 import random
 
 class RPC():
