@@ -1,9 +1,3 @@
-'''
-Created on Sun 04/05/2020 07:07:14
-Armstrong Number
-@author: MarsCandyBars
-'''
-
 def armstrong(user_num):
     
     '''
