@@ -1,8 +1,4 @@
-'''
-Created on Sat 04/04/2020 11:55:38
-99 Bottles of Beer
-@author: MarsCandyBars
-'''
+
 
 class BottlesOfBeer():
 
