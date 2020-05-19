@@ -1,7 +1,6 @@
 '''
 Created on Sun 04/07/2020 09:36:32
-Magic 8 Ball
-@author: MarsCandyBars
+
 '''
 
 #Program uses TKinter for Magic 8 Ball UI.
