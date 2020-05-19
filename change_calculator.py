@@ -1,9 +1,3 @@
-'''
-Created on Sun 04/14/2020 07:37:33
-Change Calculator
-@author: MarsCandyBars
-'''
-
 class Change():
 
     def user_input(self):
