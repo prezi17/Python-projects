@@ -1,9 +1,3 @@
-'''
-Created on Sun 04/20/2020 20:29:08
-Multiplication Table
-@author: MarsCandyBars
-'''
-
 def table(user_num):
     '''
     Description:
