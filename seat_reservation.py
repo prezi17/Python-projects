@@ -1,9 +1,3 @@
-'''
-Created on Sun 05/05/2020 18:29:38
-Seat Reservation
-@author: MarsCandyBars
-'''
-
 class Seat_Reserve():
 
     def text(self):
