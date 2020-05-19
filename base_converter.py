@@ -1,8 +1,3 @@
-'''
-Created on Sun 04/25/2020 09:16:13
-Base Converter
-@author: MarsCandyBars
-'''
 
 class Base():
     
