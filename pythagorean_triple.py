@@ -1,8 +1,3 @@
-'''
-Created on Sun 04/07/2020 11:00:02
-Pythagorean Triple
-@author: MarsCandyBars
-'''
 import math
 
 class Calculate():
