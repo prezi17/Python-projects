@@ -1,8 +1,3 @@
-'''
-Created on Sun 04/20/2020 11:19:14
-Fibonacci Sequence
-@author: MarsCandyBars
-'''
 
 #Assigning first two elements
 num1 = 0
