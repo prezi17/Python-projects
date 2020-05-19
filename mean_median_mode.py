@@ -1,7 +1,7 @@
 '''
 Created on Sun 04/17/2020 13:27:33
 Mean, Median, Mode
-@author: MarsCandyBars
+@author:Rajwinder kaur
 '''
 
 class MMM():
